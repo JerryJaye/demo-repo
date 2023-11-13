@@ -1,2 +1,3 @@
-# Demo (Hash for main header.
+# Demo
 Some description!
+Just playing around.
